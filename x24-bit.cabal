@@ -18,6 +18,7 @@ cabal-version:       >=1.10
 library
   exposed-modules:       Data.Word.Word24
                        , Data.Word.Word24.Internal
+                       , Data.Word.Word24.Utils
                        , Data.Int.Int24
                        , Data.Int.Int24.Internal
   -- other-modules:       
